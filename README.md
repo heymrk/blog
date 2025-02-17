@@ -1,1 +1,1 @@
-# blog
+A place for me to store my thoughts
